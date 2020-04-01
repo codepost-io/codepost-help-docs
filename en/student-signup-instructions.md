@@ -1,3 +1,5 @@
+# Student Signup Instructions
+
 When your instructor adds you on codePost, you will get an email that looks like this:
 
 Click "Create Account" and from here, you will set your codePost password and log in to your codePost workspace.
