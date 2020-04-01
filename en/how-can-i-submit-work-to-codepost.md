@@ -1,3 +1,5 @@
+# How can I submit work to codePost?
+
 When you're ready to submit something to codePost, navigate to https://codepost.io, log in, and find the assignment you're interested in. Then click click the green "View assignment" button in that assignment's row.
 
 When you click this button, you'll see a pop-up window that looks like this one:
